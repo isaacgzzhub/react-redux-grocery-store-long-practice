@@ -1,5 +1,5 @@
 // don't use as keyword, just name it in the import
-import produceData from ".././mockData/produce.json";
+import produceData from "../mockData/produce.json";
 
 const POPULATE = "produce/POPULATE";
 
